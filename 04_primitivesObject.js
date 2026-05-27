@@ -17,3 +17,4 @@ const item = {
   "Rohan": undefined
 }
 console.log(item["Shubh"])
+console.log(typeof item)
